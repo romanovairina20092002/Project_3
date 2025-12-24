@@ -26,10 +26,10 @@ This project applies supervised machine learning methods to predict the success 
   - irr
   
 ## Dataset
-The dataset 'Data_202425.csv' contains information on over 6,000 ICO projects, including financial, temporal, organisational, and compliance-related attributes.
+The dataset `Data_202425.csv` contains information on over 6,000 ICO projects, including financial, temporal, organisational, and compliance-related attributes.
 
 ## Target variable
-'success' is binary indicator of ICO outcome (success / failure)
+`success` is binary indicator of ICO outcome (success / failure)
 
 ## Methodology
 - Explored variable distributions and missingness; removed observations and features with excessive missing values
